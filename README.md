@@ -17,3 +17,7 @@ Body: ```{
     "inputCaseID":"002"
 }```
 
+## Clean Up
+run `cdk destroy`
+
+
